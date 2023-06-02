@@ -184,15 +184,15 @@ h1{
    width:88%;
    padding:0;
    position: static;
-  margin-left: 4%;
-  margin-bottom:5%;
+  margin-left: 6%;
+  margin-bottom:8%;
   text-align: center;
 }
 
 .left-container{
   flex-direction: column;
   height:fit-content;
-  margin-left: 4%;
+  margin-left: 7%;
   text-align:center;
 }
 
